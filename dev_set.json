@@ -1,0 +1,34 @@
+{
+  "per_domain": 5,
+  "note": "Fixed dev set. Changing it invalidates cross-rung comparisons.",
+  "subsets": {
+    "lsr_synth_bio_pop_growth": [
+      "lsr_synth_bio_pop_growth_bpg12",
+      "lsr_synth_bio_pop_growth_bpg18",
+      "lsr_synth_bio_pop_growth_bpg19",
+      "lsr_synth_bio_pop_growth_bpg4",
+      "lsr_synth_bio_pop_growth_bpg7"
+    ],
+    "lsr_synth_chem_react": [
+      "lsr_synth_chem_react_crk10",
+      "lsr_synth_chem_react_crk11",
+      "lsr_synth_chem_react_crk12",
+      "lsr_synth_chem_react_crk4",
+      "lsr_synth_chem_react_crk8"
+    ],
+    "lsr_synth_matsci": [
+      "lsr_synth_matsci_matsci12",
+      "lsr_synth_matsci_matsci2",
+      "lsr_synth_matsci_matsci20",
+      "lsr_synth_matsci_matsci4",
+      "lsr_synth_matsci_matsci9"
+    ],
+    "lsr_synth_phys_osc": [
+      "lsr_synth_phys_osc_po10",
+      "lsr_synth_phys_osc_po12",
+      "lsr_synth_phys_osc_po25",
+      "lsr_synth_phys_osc_po3",
+      "lsr_synth_phys_osc_po4"
+    ]
+  }
+}
